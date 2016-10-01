@@ -1,0 +1,24 @@
+#!/bin/sh 
+
+brew cask install google-chrome 
+brew cask install iterm2
+brew cask install google-japanese-ime
+brew cask install clipmenu
+brew cask install evernote
+brew cask install alfred
+brew cask install docker
+brew cask install vagrant
+brew cask install atom
+brew cask install coteditor
+brew cask install mou
+brew cask install cyberduck
+brew cask install skype
+brew cask install sequel-pro
+brew cask install hoster
+brew cask install flux
+brew cask install openoffice
+brew cask install libreoffice
+brew cask install virtualbox
+
+
+
