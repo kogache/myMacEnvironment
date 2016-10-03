@@ -25,6 +25,7 @@ brew cask install slack
 #brew
 brew install docker-machine
 brew install docker
+brew install rbenv ruby-build
 
 #hand motion
 #kobito
