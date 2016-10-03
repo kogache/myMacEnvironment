@@ -1,5 +1,6 @@
 #!/bin/sh 
 
+#cask
 brew cask install google-chrome 
 brew cask install iterm2
 brew cask install google-japanese-ime
@@ -19,6 +20,11 @@ brew cask install flux
 brew cask install openoffice
 brew cask install libreoffice
 brew cask install virtualbox
+brew cask install slack
 
+#brew
+brew install docker-machine
+brew install docker
 
-
+#hand motion
+#kobito
