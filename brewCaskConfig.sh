@@ -1,7 +1,7 @@
-#!/bin/sh 
+#!/bin/sh
 
 #cask
-brew cask install google-chrome 
+brew cask install google-chrome
 brew cask install iterm2
 brew cask install google-japanese-ime
 brew cask install clipmenu
@@ -21,11 +21,13 @@ brew cask install openoffice
 brew cask install libreoffice
 brew cask install virtualbox
 brew cask install slack
+brew cask install mysqlworkbench
 
 #brew
 brew install docker-machine
 brew install docker
 brew install rbenv ruby-build
+brew install phantomjs
 
 #hand motion
 #kobito
