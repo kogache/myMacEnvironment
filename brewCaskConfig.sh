@@ -27,7 +27,8 @@ brew cask install mysqlworkbench
 brew install docker-machine
 brew install docker
 brew install rbenv ruby-build
-brew install phantomjs
+# brew install phantomjs
+brew install mysql
 
 #hand motion
 #kobito
