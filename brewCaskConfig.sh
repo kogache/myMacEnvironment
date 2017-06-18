@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# How to use.
+# "sh brewCaskConfig.sh"
+
 #cask
 brew cask install google-chrome
 brew cask install iterm2
