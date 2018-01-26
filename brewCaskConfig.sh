@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# How to use.
+# "sh brewCaskConfig.sh"
+
 #cask
 brew cask install google-chrome
 brew cask install iterm2
@@ -22,6 +25,7 @@ brew cask install libreoffice
 brew cask install virtualbox
 brew cask install slack
 brew cask install mysqlworkbench
+brew cask install skitch
 
 #brew
 brew install docker-machine
