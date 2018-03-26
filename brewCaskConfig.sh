@@ -26,7 +26,9 @@ brew cask install virtualbox
 brew cask install slack
 brew cask install mysqlworkbench
 brew cask install skitch
-brew cask install pycharm
+
+# 手動でfreeのものを入れる。
+# brew cask install pycharm
 
 #brew
 brew install docker-machine
@@ -37,3 +39,6 @@ brew install mysql
 
 #hand motion
 #kobito
+
+# git branch 補完
+# wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -O ~/.git-completion.bash
