@@ -36,3 +36,6 @@ brew install mysql
 
 #hand motion
 #kobito
+
+# git branch 補完
+# wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -O ~/.git-completion.bash
