@@ -26,7 +26,9 @@ brew cask install virtualbox
 brew cask install slack
 brew cask install mysqlworkbench
 brew cask install skitch
-brew cask install pycharm
+
+# 手動でfreeのものを入れる。
+# brew cask install pycharm
 
 #brew
 brew install docker-machine
