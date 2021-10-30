@@ -25,7 +25,8 @@ brew install mysqlworkbench --cask
 # brew install pycharm --cask
 
 #brew
-# dockerは公式サイトから入れる。intel chip とApple chipで分かれているので。
+# dockerはちゃんとapple chip版が入っているよう。
+# caskでも書いてるが必要なのかは不明。
 brew install docker
 
 brew install rbenv ruby-build
