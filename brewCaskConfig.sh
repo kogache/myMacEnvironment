@@ -4,43 +4,35 @@
 # "sh brewCaskConfig.sh"
 
 #cask
-brew cask install google-chrome
-brew cask install iterm2
-brew cask install google-japanese-ime
-brew cask install clipy
-brew cask install evernote
-brew cask install alfred
-brew cask install docker
-brew cask install vagrant
-brew cask install atom
-brew cask install coteditor
-brew cask install mou
-brew cask install cyberduck
-brew cask install skype
-brew cask install sequel-pro
-brew cask install hoster
-brew cask install flux
-brew cask install openoffice
-brew cask install libreoffice
-brew cask install virtualbox
-brew cask install slack
-brew cask install mysqlworkbench
-brew cask install skitch
+brew install google-chrome --cask
+brew install iterm2 --cask
+brew install clipy --cask
+brew install alfred --cask
+brew install docker --cask
+brew install atom --cask
+brew install coteditor --cask
+
+# cutting BLUE LIGHT
+brew install flux --cask
+
+# brew install openoffice --cask
+# brew install libreoffice --cask
+
+brew install slack --cask
+brew install mysqlworkbench --cask
 
 # 手動でfreeのものを入れる。
-# brew cask install pycharm
+# brew install pycharm --cask
 
 #brew
-brew install docker-machine
+# dockerは公式サイトから入れる。intel chip とApple chipで分かれているので。
 brew install docker
+
 brew install rbenv ruby-build
-# brew install phantomjs
-brew install mysql
 
 #hand motion
-# quiver (free tryal)
 # GraphQL IDE (trying now)
-# google バックアップと同期
+# Google日本語入力
 
 # git branch 補完
 # wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -O ~/.git-completion.bash
