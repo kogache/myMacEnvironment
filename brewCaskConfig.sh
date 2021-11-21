@@ -11,6 +11,7 @@ brew install alfred --cask
 brew install docker --cask
 brew install atom --cask
 brew install coteditor --cask
+brew install skitch --cask
 
 # cutting BLUE LIGHT
 brew install flux --cask
